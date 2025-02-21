@@ -1,3 +1,4 @@
 # Nur-mohammad
 this is my first projeckt in github
-athora Nur mohammad
+<br>
+Athora Nur mohammad
